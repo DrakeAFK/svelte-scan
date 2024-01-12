@@ -1,1 +1,1 @@
-<h1>Svelte Scan</h1>
+<h1 class="text-center text-5xl p-10">Svelte Scan</h1>
