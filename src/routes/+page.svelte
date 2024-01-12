@@ -51,6 +51,7 @@
   <footer class="footer footer-center p-3 rounded-md bg-base-300 text-base-content">
     <aside>
       <p>Developed by <a class="link-accent" href="https://drakeafk.io" target="_blank">DrakeAFK</p>
+      <p>View Svelte Scan on <a class="link-primary" href="https://github.com/DrakeAFK/svelte-scan" target="_blank">GitHub</a></p>
     </aside>
   </footer>
 </div>
