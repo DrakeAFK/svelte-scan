@@ -26,11 +26,11 @@
   }
 </script>
 
-<h1 class="text-center text-5xl p-10">Svelte Scan</h1>
+<h1 class="text-center text-5xl text-primary p-10">Svelte Scan</h1>
 
 <div class="border rounded-lg mx-auto text-center py-10 min-w-[250px] w-1/2">
   <h2 class="text-center text-2xl">Generate a QR Code</h2>
-  <p class="text-center pt-3 pb-5">Insert a link or any other text</p>
+  <p class="text-center italic pt-3 pb-5">Insert a link or any other text</p>
 
   <div class="space-y-5">
     <input
