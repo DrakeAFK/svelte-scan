@@ -26,6 +26,12 @@
   }
 </script>
 
+<svelte:head>
+	<title>Svelte Scan</title>
+  <meta name="description" content="Generate QR codes with Svelte Scan" />
+	<html lang="en" />
+</svelte:head>
+
 <h1 class="text-center text-5xl text-primary p-10">Svelte Scan</h1>
 
 <div class="border rounded-lg mx-auto text-center py-10 min-w-[250px] w-1/2">
